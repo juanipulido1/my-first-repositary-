@@ -1,2 +1,3 @@
 def potato():
+    potato()
     
