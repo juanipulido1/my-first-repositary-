@@ -1,4 +1,3 @@
 def potato():
-    potato()
-while true:
+    print(hello)
     
